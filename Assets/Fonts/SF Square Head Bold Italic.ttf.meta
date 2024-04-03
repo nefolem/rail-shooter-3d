@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6533a857970dd9b44abdbc003979449c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - SF Square Head
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 24d43900dd2acb842aaf999770f1890b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
